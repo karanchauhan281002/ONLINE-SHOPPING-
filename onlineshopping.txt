@@ -1,0 +1,81 @@
+<html>
+<head>
+<title>online shopping </title>
+<style>
+*{
+box-sizing:border-box;
+}
+body{
+margin:0;
+background:white;
+}
+nav{
+background:#594848;
+width:100%;
+overflow:auto;
+}
+ul{
+margin:0;
+padding:0;
+list-style:none;
+}
+li{
+float:left;
+}	
+nav a{
+width:120px;
+display:block;
+text-decoration:none;
+text-align:center;
+background:#594848;
+font-size:17px;
+color:white;
+padding:20px 10px;
+font-family:Arial;
+}
+nav a:hover{
+background:skyblue;
+color:black;
+}
+
+</style>
+</head>
+<body> 
+<nav>
+<ul>
+<li><a href="#"> Home</a></li>
+<li><a href=" shoze.html"> shoze</a></li>
+<li><a href=" bag.html"> bag</a></li>
+<li><a href=" cloth.html"> cloth</a></li>
+<li><a href="water bottle.html"> water bottle</a></li>
+<li><a href=" form.html"> Form </a></li>
+<li><a href=" footer.html"> Footer </a></li>
+</ul>
+</nav>
+<h1><center><u>CK craft</u></center></h1>
+<h2>
+<i>
+<p1>
+Consumers can get full information about the product with its reviews
+ being passed by the existing users.
+ If one wants to buy a product he/she is no longer limited to asking 
+the friends and families because there are many products reviews on 
+the web which gives opinions of the existing users of the product.
+</p1>
+</i>
+</h2>
+<h2>
+<i>
+<p2>
+Online shopping is becoming increasingly popular for variety of reasons.
+ There are certainly outside factors such as increasing gas prices,
+ difficulty in getting to traditional stores and hassles often associated
+ with shopping malls and other traditional stores to contribute to the increased
+ interest in online shopping,
+</h2>
+</i>
+</p2>
+
+  
+</body>
+</html>
